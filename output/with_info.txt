@@ -1,0 +1,1 @@
+{'word': 'magmahal', 'root': 'magmahal', 'prefix': '[]', 'infix': '[]', 'suffix': '[]', 'repeat': '[]', 'dupli': '[]', 'clean': '[]'}
